@@ -817,3 +817,15 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Built by [WEDGE Method](https://wedge-sales.vercel.app)** — Scripts, templates, and tools for creators who build profitable content brands without showing their face.
 
 *The best time to start a faceless channel was a year ago. The second best time is today. Star this repo and start creating.*
+
+---
+
+## About WEDGE Method
+
+This resource is part of the **[WEDGE Method](https://thewedgemethodai.com)** ecosystem — AI-powered tools and systems for content creators, consultants, and business owners.
+
+- **Website**: [thewedgemethodai.com](https://thewedgemethodai.com)
+- **Products**: [wedgemethod.gumroad.com](https://wedgemethod.gumroad.com)
+- **Articles**: [dev.to/wedgemethoddev](https://dev.to/wedgemethoddev)
+
+Built by [Jacob Olschewski](https://linkedin.com/in/jacobolschewski) | jacob@thewedgemethodai.com
